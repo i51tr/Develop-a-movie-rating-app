@@ -10,8 +10,8 @@ One of the key features of the app is its rating system, which allows users to r
 
 
 ## Our Team:
-- Meteabh Aldawasri
-- Faisal Algabani
+- Meteabh 
+- Faisal 
 - Maha
 - Reham
 
